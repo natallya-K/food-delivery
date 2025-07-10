@@ -85,8 +85,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Data files (if you want to exclude the database)
-# database/*.db
+# Data files (database excluded due to size)
+database/*.db
 
 # Log files
 *.log

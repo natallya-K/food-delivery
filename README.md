@@ -38,7 +38,10 @@ Conduct exploratory analysis, summarize findings, and present actionable insight
 ## Data
 
 The database provided is in SQLite:
-- **Takeaway Database**
+- **Takeaway Database** (takeaway.db)
+
+**Note:** The database file (79.83 MB) is not included in the repository due to GitHub's file size limits. 
+Please ensure you have the database file (`takeaway.db`) in the `database/` folder to run the analysis.
 
 ### Database Diagram
 
